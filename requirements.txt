@@ -1,0 +1,6 @@
+# filepath: d:\Desktop\housing_price_dataset.csv\requirements.txt
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn
